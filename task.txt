@@ -3,6 +3,6 @@
 	every line contains letter C,R,S,P (Circle, Rectangle, Square, Parallelogram) 
 	followed by every edge coordinates (x , y)
 	(circle has 0 edges followed by center point and any point of circle)
-3. Create interface Shape with methods calculatePerimeter and calculateArea
-4. Create class for Circle Rectangle Square (every class should implement shape)
-5. Output everything to file (shape name, every side length, perimeter, area)
+2. Create interface Shape with methods calculatePerimeter and calculateArea
+3. Create class for Circle, Rectangle, Square, Parallelogram (every class should implement shape)
+4. Output everything to file (shape name, every side length, perimeter, area)
