@@ -10,12 +10,11 @@ public class TextFileInputOutputService implements InputOutputService {
 
     @Override
     public List<Shape> read(File file) {
-        ShapeFactory shapeFactory = new ShapeFactory();
         try (BufferedReader reader = new BufferedReader(new FileReader(file))) {
             List<Shape> shapes = new ArrayList<>();
             String line = reader.readLine();
             while (line != null) {
-                shapes.add(shapeFactory.getShape(line));
+                shapes.add(/*create / add new shapes */);
                 line = reader.readLine();
             }
             return shapes;
