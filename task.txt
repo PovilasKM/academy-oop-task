@@ -1,8 +1,11 @@
 1. Read files shapes.txt
 	file contains multiple lines
 	every line contains letter C,R,T (Circle, Rectangle, Triangle) 
-	followed by every edge coordinates (x , y)
+	followed by every edge coordinate pairs (x , y)
 	(circle has 0 edges followed by center point and any point of circle)
-2. Create interface Shape with methods calculatePerimeter and calculateArea
+2. Create interface Shape with methods calculatePerimeter, calculateArea and print
 3. Create class for Circle, Rectangle, Triangle (every class should implement shape)
-4. Output everything to file (shape name, every side length, perimeter, area)
+4. Output everything to file (shape name, every side length, perimeter, area) as it is in github
+
+this task is not only about interfaces but also about general problem solving skills. Use google, ask questions.
+Change in existing classes are not needed except ShapeFactory

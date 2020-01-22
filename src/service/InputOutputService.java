@@ -1,5 +1,7 @@
 package service;
 
+import interfaces.Shape;
+
 import java.io.File;
 import java.util.List;
 
