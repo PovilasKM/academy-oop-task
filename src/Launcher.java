@@ -1,4 +1,3 @@
-import interfaces.Shape;
 import service.InputOutputService;
 import service.TextFileInputOutputService;
 
