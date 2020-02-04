@@ -1,9 +1,11 @@
 there is a lot of duplicate code. What it does is reads dates from files and does something with it, for example
 writes hours between those dates.
 
+UML that might help is in uml.png
+
 Your task is:
 
 0. Refactor the code while doing this task.
-1. Create an abstract class that will have the duplicate code. It has to have an abstract method which will have the
+1. Create an abstract class, move duplicate to it. It has to have an abstract method which will have the
     code that's unique to the implementation.
 2. Create two implementations for the abstract class.
