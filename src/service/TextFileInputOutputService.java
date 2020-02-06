@@ -1,5 +1,6 @@
 package service;
 
+import exceptions.WrongCoordinatesCountException;
 import factory.ShapeFactory;
 import interfaces.Shape;
 
@@ -25,6 +26,8 @@ public class TextFileInputOutputService implements InputOutputService {
             }
             return shapes;
         } catch (IOException e) {
+            System.out.println(e.getMessage());
+        } catch (WrongCoordinatesCountException e) {
             System.out.println(e.getMessage());
         }
         return shapes;
