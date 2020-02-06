@@ -1,6 +1,7 @@
-package service;
+package com.swedbank.day3.service;
 
-import factory.ShapeFactory;
+import com.swedbank.day3.factory.ShapeFactory;
+import com.swedbank.day3.shapes.Shape;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

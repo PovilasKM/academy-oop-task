@@ -3,9 +3,13 @@
 	every line contains letter C,R,T (Circle, Rectangle, Triangle) 
 	followed by every edge coordinate pairs (x , y)
 	(circle has 0 edges followed by center point and any point of circle)
+
+
+
 2. Create interface Shape with methods calculatePerimeter, calculateArea and print
-3. Create Point class which would store coordinates (x, y). Other classes will have to use it.
+3. Create com.swedbank.day3.Point class which would store coordinates (x, y). Other classes will have to use it.
 4. Create class for Circle, Rectangle, Triangle (every class should implement shape)
+
 5. Create new instances of shapes in ShapeFactory.
 6. Output everything to file (shape name, every side length, perimeter, area) as it is in output (oh in github if you
 have already overwritten the file.

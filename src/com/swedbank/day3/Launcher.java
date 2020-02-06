@@ -1,5 +1,8 @@
-import service.InputOutputService;
-import service.TextFileInputOutputService;
+package com.swedbank.day3;
+
+import com.swedbank.day3.service.InputOutputService;
+import com.swedbank.day3.service.TextFileInputOutputService;
+import com.swedbank.day3.shapes.Shape;
 
 import java.io.File;
 import java.util.List;

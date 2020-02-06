@@ -23,53 +23,53 @@ Circle, area: 213.628, perimeter: 51.812
 Circle, area: 581.195, perimeter: 85.461
 Circle, area: 870.221, perimeter: 104.573
 Circle, area: 882.788, perimeter: 105.325
-Triangle; Sides 41.183, 30.480, 16.279;  Area: -214.000; Perimeter: 87.941
-Triangle; Sides 11.045, 40.012, 51.039;  Area: -14.500; Perimeter: 102.097
-Triangle; Sides 32.894, 42.059, 49.244;  Area: 683.500; Perimeter: 124.198
-Triangle; Sides 43.290, 14.560, 29.017;  Area: -51.000; Perimeter: 86.867
-Triangle; Sides 50.990, 40.792, 20.591;  Area: 400.000; Perimeter: 112.374
-Triangle; Sides 9.220, 64.382, 55.172;  Area: -13.000; Perimeter: 128.774
-Triangle; Sides 18.358, 24.083, 10.630;  Area: 92.000; Perimeter: 53.071
-Triangle; Sides 8.485, 44.777, 48.508;  Area: -177.000; Perimeter: 101.770
-Triangle; Sides 53.759, 14.142, 47.011;  Area: -310.000; Perimeter: 114.911
-Triangle; Sides 32.202, 15.033, 28.018;  Area: -210.500; Perimeter: 75.254
-Triangle; Sides 25.495, 42.202, 53.226;  Area: 528.500; Perimeter: 120.923
-Triangle; Sides 7.616, 6.083, 13.153;  Area: -12.500; Perimeter: 26.851
-Triangle; Sides 30.594, 35.440, 44.721;  Area: -540.000; Perimeter: 110.756
-Triangle; Sides 50.160, 34.000, 23.324;  Area: 340.000; Perimeter: 107.484
-Triangle; Sides 36.770, 26.401, 25.080;  Area: -331.000; Perimeter: 88.250
-Triangle; Sides 8.544, 22.804, 28.653;  Area: 79.000; Perimeter: 60.001
-Triangle; Sides 26.173, 25.495, 23.770;  Area: 272.500; Perimeter: 75.437
-Triangle; Sides 47.634, 33.015, 29.275;  Area: 476.500; Perimeter: 109.924
-Triangle; Sides 39.598, 19.313, 57.801;  Area: 154.000; Perimeter: 116.713
-Triangle; Sides 11.045, 8.062, 5.000;  Area: 18.500; Perimeter: 24.108
-Triangle; Sides 20.025, 32.757, 13.416;  Area: -54.000; Perimeter: 66.198
-Triangle; Sides 52.173, 17.205, 48.021;  Area: -412.000; Perimeter: 117.398
-Triangle; Sides 35.228, 19.925, 27.857;  Area: -277.000; Perimeter: 83.009
-Triangle; Sides 34.205, 45.891, 12.000;  Area: -54.000; Perimeter: 92.096
-Triangle; Sides 1.414, 24.083, 25.020;  Area: 13.000; Perimeter: 50.517
-Rectangle; Sides: 2.236, 5.000, 2.236, 5.000;  Area: 10.000; Perimeter: 14.472
-Rectangle; Sides: 10.050, 151.083, 10.050, 151.083;  Area: 1515.000; Perimeter: 322.265
-Rectangle; Sides: 6.325, 41.593, 6.325, 41.593;  Area: 260.000; Perimeter: 95.836
-Rectangle; Sides: 32.558, 36.401, 32.558, 36.401;  Area: 530.000; Perimeter: 137.916
-Rectangle; Sides: 1.414, 41.037, 1.414, 41.037;  Area: 58.000; Perimeter: 84.902
-Rectangle; Sides: 18.385, 41.110, 18.385, 41.110;  Area: 676.000; Perimeter: 118.989
-Rectangle; Sides: 30.067, 377.033, 30.067, 377.033;  Area: 11300.000; Perimeter: 814.199
-Rectangle; Sides: 24.187, 38.718, 24.187, 38.718;  Area: 731.250; Perimeter: 125.809
-Rectangle; Sides: 20.616, 117.273, 20.616, 117.273;  Area: 2380.000; Perimeter: 275.777
-Rectangle; Sides: 46.011, 1151.192, 46.011, 1151.192;  Area: 52925.000; Perimeter: 2394.405
-Rectangle; Sides: 48.877, 62.594, 48.877, 62.594;  Area: 1911.200; Perimeter: 222.942
-Rectangle; Sides: 2.236, 26.926, 2.236, 26.926;  Area: 60.000; Perimeter: 58.324
-Rectangle; Sides: 25.179, 79.624, 25.179, 79.624;  Area: 1902.000; Perimeter: 209.607
-Rectangle; Sides: 13.038, 49.578, 13.038, 49.578;  Area: 542.623; Perimeter: 125.233
-Rectangle; Sides: 7.071, 37.443, 7.071, 37.443;  Area: 260.000; Perimeter: 89.029
-Rectangle; Sides: 6.083, 61.131, 6.083, 61.131;  Area: 370.000; Perimeter: 134.428
-Rectangle; Sides: 29.275, 163.650, 29.275, 163.650;  Area: 4713.500; Perimeter: 385.849
-Rectangle; Sides: 12.530, 33.738, 12.530, 33.738;  Area: 392.500; Perimeter: 92.536
-Rectangle; Sides: 10.050, 111.005, 10.050, 111.005;  Area: 1111.000; Perimeter: 242.109
-Rectangle; Sides: 47.760, 55.697, 47.760, 55.697;  Area: 1368.600; Perimeter: 206.914
-Rectangle; Sides: 21.000, 35.000, 21.000, 35.000;  Area: 588.000; Perimeter: 112.000
-Rectangle; Sides: 15.133, 122.004, 15.133, 122.004;  Area: 1832.000; Perimeter: 274.274
-Rectangle; Sides: 8.544, 23.005, 8.544, 23.005;  Area: 182.500; Perimeter: 63.099
-Rectangle; Sides: 20.396, 79.158, 20.396, 79.158;  Area: 1560.000; Perimeter: 199.108
-Rectangle; Sides: 10.817, 18.028, 10.817, 18.028;  Area: 156.000; Perimeter: 57.689
+Triangle, Sides 41.183, 16.279, 30.480, area: 214.000, perimeter: 87.941
+Triangle, Sides 11.045, 51.039, 40.012, area: 14.500, perimeter: 102.097
+Triangle, Sides 32.894, 49.244, 42.059, area: 683.500, perimeter: 124.198
+Triangle, Sides 43.290, 29.017, 14.560, area: 51.000, perimeter: 86.867
+Triangle, Sides 50.990, 20.591, 40.792, area: 400.000, perimeter: 112.374
+Triangle, Sides 9.220, 55.172, 64.382, area: 13.000, perimeter: 128.774
+Triangle, Sides 18.358, 10.630, 24.083, area: 92.000, perimeter: 53.071
+Triangle, Sides 8.485, 48.508, 44.777, area: 177.000, perimeter: 101.770
+Triangle, Sides 53.759, 47.011, 14.142, area: 310.000, perimeter: 114.911
+Triangle, Sides 32.202, 28.018, 15.033, area: 210.500, perimeter: 75.254
+Triangle, Sides 25.495, 53.226, 42.202, area: 528.500, perimeter: 120.923
+Triangle, Sides 7.616, 13.153, 6.083, area: 12.500, perimeter: 26.851
+Triangle, Sides 30.594, 44.721, 35.440, area: 540.000, perimeter: 110.756
+Triangle, Sides 50.160, 23.324, 34.000, area: 340.000, perimeter: 107.484
+Triangle, Sides 36.770, 25.080, 26.401, area: 331.000, perimeter: 88.250
+Triangle, Sides 8.544, 28.653, 22.804, area: 79.000, perimeter: 60.001
+Triangle, Sides 26.173, 23.770, 25.495, area: 272.500, perimeter: 75.437
+Triangle, Sides 47.634, 29.275, 33.015, area: 476.500, perimeter: 109.924
+Triangle, Sides 39.598, 57.801, 19.313, area: 154.000, perimeter: 116.713
+Triangle, Sides 11.045, 5.000, 8.062, area: 18.500, perimeter: 24.108
+Triangle, Sides 20.025, 13.416, 32.757, area: 54.000, perimeter: 66.198
+Triangle, Sides 52.173, 48.021, 17.205, area: 412.000, perimeter: 117.398
+Triangle, Sides 35.228, 27.857, 19.925, area: 277.000, perimeter: 83.009
+Triangle, Sides 34.205, 12.000, 45.891, area: 54.000, perimeter: 92.096
+Triangle, Sides 1.414, 25.020, 24.083, area: 13.000, perimeter: 50.517
+Rectangle, Sides 2.236, 5.000, 2.236, 5.000, area: 11.180, perimeter: 14.472
+Rectangle, Sides 10.050, 151.083, 10.050, 151.083, area: 1518.363, perimeter: 322.265
+Rectangle, Sides 6.325, 41.593, 6.325, 41.593, area: 263.059, perimeter: 95.836
+Rectangle, Sides 32.558, 36.401, 32.558, 36.401, area: 1185.116, perimeter: 137.916
+Rectangle, Sides 1.414, 41.037, 1.414, 41.037, area: 58.034, perimeter: 84.902
+Rectangle, Sides 18.385, 41.110, 18.385, 41.110, area: 755.791, perimeter: 118.989
+Rectangle, Sides 30.067, 377.033, 30.067, 377.033, area: 11336.102, perimeter: 814.199
+Rectangle, Sides 24.187, 38.718, 24.187, 38.718, area: 936.457, perimeter: 125.809
+Rectangle, Sides 20.616, 117.273, 20.616, 117.273, area: 2417.649, perimeter: 275.777
+Rectangle, Sides 46.011, 1151.192, 46.011, 1151.192, area: 52967.323, perimeter: 2394.405
+Rectangle, Sides 48.877, 62.594, 48.877, 62.594, area: 3059.413, perimeter: 222.942
+Rectangle, Sides 2.236, 26.926, 2.236, 26.926, area: 60.208, perimeter: 58.324
+Rectangle, Sides 25.179, 79.624, 25.179, 79.624, area: 2004.884, perimeter: 209.607
+Rectangle, Sides 13.038, 49.578, 13.038, 49.578, area: 646.421, perimeter: 125.233
+Rectangle, Sides 7.071, 37.443, 7.071, 37.443, area: 264.764, perimeter: 89.029
+Rectangle, Sides 6.083, 61.131, 6.083, 61.131, area: 371.845, perimeter: 134.428
+Rectangle, Sides 29.275, 163.650, 29.275, 163.650, area: 4790.776, perimeter: 385.849
+Rectangle, Sides 12.530, 33.738, 12.530, 33.738, area: 422.735, perimeter: 92.536
+Rectangle, Sides 10.050, 111.005, 10.050, 111.005, area: 1115.581, perimeter: 242.109
+Rectangle, Sides 47.760, 55.697, 47.760, 55.697, area: 2660.080, perimeter: 206.914
+Rectangle, Sides 21.000, 35.000, 21.000, 35.000, area: 735.000, perimeter: 112.000
+Rectangle, Sides 15.133, 122.004, 15.133, 122.004, area: 1846.257, perimeter: 274.274
+Rectangle, Sides 8.544, 23.005, 8.544, 23.005, area: 196.559, perimeter: 63.099
+Rectangle, Sides 20.396, 79.158, 20.396, 79.158, area: 1614.514, perimeter: 199.108
+Rectangle, Sides 10.817, 18.028, 10.817, 18.028, area: 195.000, perimeter: 57.689

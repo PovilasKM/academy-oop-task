@@ -1,4 +1,6 @@
-package service;
+package com.swedbank.day3.service;
+
+import com.swedbank.day3.shapes.Shape;
 
 import java.io.File;
 import java.util.List;
