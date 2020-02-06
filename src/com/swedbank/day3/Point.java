@@ -24,4 +24,8 @@ public class Point {
     public void setY(int y) {
         this.y = y;
     }
+
+    public double calculateDistanceBetweenPoints(Point externalPoint) {
+        return Math.sqrt((externalPoint.getY() - this.y) * (externalPoint.getY() - this.y) + (externalPoint.getX() - this.x) * (externalPoint.getX() - this.x));
+    }
 }

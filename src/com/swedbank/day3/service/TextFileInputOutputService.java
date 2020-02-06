@@ -1,5 +1,6 @@
 package com.swedbank.day3.service;
 
+import com.swedbank.day3.exceptions.WrongCoordinatesCountException;
 import com.swedbank.day3.factory.ShapeFactory;
 import com.swedbank.day3.shapes.Shape;
 
@@ -24,8 +25,10 @@ public class TextFileInputOutputService implements InputOutputService {
                 line = reader.readLine();
             }
             return shapes;
+        } catch (WrongCoordinatesCountException e) {
+            System.out.printf("Must be %d coordinates", e.getCount());
         } catch (IOException e) {
-            System.out.println(e.getMessage());
+            e.printStackTrace();
         }
         return shapes;
     }
@@ -36,8 +39,7 @@ public class TextFileInputOutputService implements InputOutputService {
             for (Shape shape : shapes) {
                 writer.write(shape.print());
             }
-        }
-        catch(IOException e) {
+        } catch (IOException e) {
             System.out.println(e.getMessage());
         }
     }
