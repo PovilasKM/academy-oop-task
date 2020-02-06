@@ -21,7 +21,8 @@ public class Triangle implements Shape {
 
     @Override
     public double calculateArea() {
-        return (a.getX() * (b.getY() - c.getY()) + b.getX() * (c.getY() - a.getY()) + c.getX() * (a.getY() - b.getY())) / 2.0f;
+        double s = calculatePerimeter() / 2;
+        return Math.sqrt(s*(s - a.getDistance(b))*(s - b.getDistance(c))*(s-c.getDistance(a)));
     }
 
     @Override
